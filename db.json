@@ -1,8 +1,10 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "_id": "63b9ebd0b19ad363ebbd829a",
+      "authorId": "63b9eba96554b9b12f2e5805",
+      "date": "2022-01-05",
+      "mood": "HAPPY"
     },
     {
       "id": 2,
